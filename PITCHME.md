@@ -1,18 +1,17 @@
 @title[Cover]
 
 # Dinas <span class="gold">KominfoST</span>
-
-## Layanan Kesehatan
+&
+## BantenDev
+<br>
+<span class="aside">Telah mengembangkan ...</span>
 
 ---
 
 @title[Introduction]
 
-#### Dinas Komunikasi <span class="gold">Informatika</span> Statistik
-#### dan Persandian
-#### Seksi Pengembangan Aplikasi Informatika.
-<br>
-<span class="aside">Telah melaksanakan ...</span>
+### Aplikasi Layanan Kesehatan
+## YanKes
 
 ---
 #### Pengembangan Aplikasi
