@@ -1,15 +1,12 @@
-@title[Introduction]
+@title[Cover]
 
 # Dinas <span class="gold">KominfoST</span>
 
-#### Seksi Pengembangan Aplikasi Informatika.*
-<br>
-<div class="byline front">[Evaluasi Kegiatan TA 2017]</div>
-<div class="byline front">[Rencana Kerja TA 2018]</div>
+## Layanan Kesehatan
 
 ---
 
-@title[Pengembangan Aplikasi]
+@title[Introduction]
 
 #### Dinas Komunikasi <span class="gold">Informatika</span> Statistik
 #### dan Persandian
