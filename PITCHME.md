@@ -1,8 +1,8 @@
 @title[Cover]
 
 # Dinas <span class="gold">KominfoST</span>
-&
-## BantenDev
+## &
+## Banten<span class="gold">Dev</span>
 <br>
 <span class="aside">Telah mengembangkan ...</span>
 
