@@ -37,7 +37,7 @@
 @title[Tujuan]
 
 ### Tujuan Pengembangan <span class="gold">YanKes</span>
-- Untuk memprmudah masyarakat dalam mencari informasi kesehatan di Provinsi Banten. |
+- Untuk mempermudah masyarakat dalam mencari informasi kesehatan di Provinsi Banten. |
 - Untuk mempermudah pengelolaan manajemen rumah sakit. |
 - untuk mempermudah pendataan masyarakat yang sakit pada waktu tertentu. |
 - Untuk mempermudah pendataan jumlah rumah sakit, dokter dan ruang rawat inap yang terdapat di provinsi Banten. |
@@ -53,11 +53,11 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 ---
 
-@title[Tampilan Home Rumah Sakit]
+@title[Tampilan Home YanKes]
 
-## Tampilan Home Rumah Sakit
+## Tampilan Home <span class="gold">YanKes</span>
 
-<span style="font-size:0.6em; color:gray">Tampilan Home Rumah Sakit</span>
+<span style="font-size:0.6em; color:gray">Tampilan Home <span class="gold">YanKes</span></span>
 @fa[arrow-down]
 
 +++
