@@ -136,7 +136,7 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 ---
 
-@title[Konten Rumah Sakit
+@title[Konten Rumah Sakit]
 
 ## Tampilan Konten-Konten yang Terdapat di Menu Rumah Sakit
 
