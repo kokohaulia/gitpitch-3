@@ -15,7 +15,7 @@
 
 ---
 
-@title [YanKes)
+@title [YanKes]
 
 ## Layanan Keshatan (<span class="gold">YanKes</span>)
 
