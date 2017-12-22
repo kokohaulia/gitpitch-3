@@ -53,9 +53,9 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 ---
 
-@title[Tampilan Home YanKes]
+@title[Tampilan Menu Home YanKes]
 
-## Tampilan Home <span class="gold">YanKes</span>
+## Tampilan Menu Home <span class="gold">YanKes</span>
 
 <span style="font-size:0.6em; color:gray">Tampilan Home <span class="gold">YanKes</span></span>
 @fa[arrow-down]
@@ -109,6 +109,58 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 <span style="font-size:0.6em; color:gray">selesai</span>
 
 ---
+
+@title[Tampilan Menu Rumah Sakit]
+
+## Tampilan Menu Rumah Sakit
+
+<span style="font-size:0.6em; color:gray">Tampilan Menu Rumah Sakit</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Menu Rumah Sakit](/assets/images/menu-rumah-sakit.png)
+
+---
+
+@title[Lihat Info Rumah Sakit]
+
+## Tampilan Lihat Rumah Sakit
+
+<span style="font-size:0.6em; color:gray">Tampilan Lihat Rumah Sakit</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Lihat Rumah Sakit](/assets/images/lihat-rumah-sakit.png)
+
+---
+
+@title[Konten Rumah Sakit
+
+## Tampilan Konten-Konten yang Terdapat di Menu Rumah Sakit
+
+<span style="font-size:0.6em; color:gray">Tampilan Konten Dokter Jaga</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Konten Dokter Jaga](/assets/images/konten-rumah-sakit1.png)
+
+<span style="font-size:0.6em; color:gray">Tampilan Konten Layanan</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Konten Layanan](/assets/images/konten-rumah-sakit2.png)
+
+<span style="font-size:0.6em; color:gray">Tampilan Konten Tempat Tidur rawat Inap</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Konten Tempat Tidur Rawat Inap](/assets/images/konten-rumah-sakit3.png)
+
 ---
 
 ### SEKIAN
