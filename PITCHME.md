@@ -55,7 +55,7 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 @title[Tampilan Menu Home YanKes]
 
-## Tampilan Menu Home <span class="gold">YanKes</span>
+## Tampilan Menu <span class="gold">Home YanKes</span>
 
 <span style="font-size:0.6em; color:gray">Tampilan Home <span class="gold">YanKes</span></span>
 @fa[arrow-down]
@@ -112,7 +112,7 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 @title[Tampilan Menu Rumah Sakit]
 
-## Tampilan Menu Rumah Sakit
+## Tampilan Menu <span class="gold">Rumah Sakit</span>
 
 <span style="font-size:0.6em; color:gray">Tampilan Menu Rumah Sakit</span>
 @fa[arrow-down]
