@@ -62,6 +62,54 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
+![Tampilan Home1](/assets/images/home1.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home2](/assets/images/home2.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home3](/assets/images/home3.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home4](/assets/images/home4.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home5](/assets/images/home5.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home6](/assets/images/home6.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Home7](/assets/images/home7.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
+---
 ---
 
 ### SEKIAN
