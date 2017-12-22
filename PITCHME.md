@@ -26,7 +26,7 @@
 
 @title[Features]
 
-## Yankes Features
+## <span class="gold">Yankes</span> Features
 - Mudah digunakan oleh masyarakat banyak. |
 - Tampilan yang menarik. |
 - Masyarakat dapat berkonsultasi dengan dokter secara langsung. |
@@ -36,7 +36,7 @@
 
 @title[Tujuan]
 
-### Tujuan Pengembangan YanKes
+### Tujuan Pengembangan <span class="gold">YanKes</span>
 - Untuk memprmudah masyarakat dalam mencari informasi kesehatan di Provinsi Banten. |
 - Untuk mempermudah pengelolaan manajemen rumah sakit. |
 - untuk mempermudah pendataan masyarakat yang sakit pada waktu tertentu. |
@@ -44,7 +44,7 @@
 
 ---
 
-### Tampilan Aplikasi YanKes
+### Tampilan Aplikasi <span class="gold">YanKes</span>
 
 Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes-01.dev.bantenprov.go.id/ sehingga akan menampilkan tampilan seperti ini
 
@@ -106,8 +106,7 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 ![Tampilan Home7](/assets/images/home7.png)
 
-<span style="font-size:0.6em; color:gray">Lajutannya...</span>
-@fa[arrow-down]
+<span style="font-size:0.6em; color:gray">selesai</span>
 
 ---
 ---
