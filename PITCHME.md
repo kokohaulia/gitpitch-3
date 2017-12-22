@@ -165,5 +165,5 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 ### SEKIAN
 # Dinas <span class="gold">KominfoST</span>
-### &
+## &
 ## Banten<span class="gold">Prov</span>
