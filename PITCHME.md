@@ -48,13 +48,19 @@
 
 Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes-01.dev.bantenprov.go.id/ sehingga akan menampilkan tampilan seperti ini
 
-<span style="font-size:0.6em; color:gray">Tampilan Aplikasi.</span>
+<span style="font-size:0.6em; color:gray">Tampilan Aplikasi</span>
 @fa[arrow-down]
 
 ---
 
-@title [Tampilan Rumah Sakit]
+@title[Tampilan Home Rumah Sakit]
 
+## Tampilan Home Rumah Sakit
+
+<span style="font-size:0.6em; color:gray">Tampilan Home Rumah Sakit</span>
+@fa[arrow-down]
+
++++
 
 ---
 
