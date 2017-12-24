@@ -163,6 +163,18 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 ---
 
+@title[Tampilan Menu Dokter]
+
+## Tampilan Menu <span class="gold">Dokter</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Menu Rumah Sakit</span>
+@fa[arrow-down]
+
++++
+
+
+
+
 ### SEKIAN
 # Dinas <span class="gold">KominfoST</span>
 ## &
