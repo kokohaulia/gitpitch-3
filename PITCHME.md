@@ -55,7 +55,7 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 @title[Tampilan Menu Home YanKes]
 
-## Tampilan Menu <span class="gold">Home</span>
+## Menu <span class="gold">Home</span>
 
 <span style="font-size:0.6em; color:gray">Tampilan Home <span class="gold">YanKes</span></span>
 @fa[arrow-down]
@@ -112,9 +112,9 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 @title[Tampilan Menu Rumah Sakit]
 
-## Tampilan Menu <span class="gold">Rumah Sakit</span>
+## Menu <span class="gold">Rumah Sakit</span>
 
-<span style="font-size:0.6em; color:gray">Tampilan Menu Rumah Sakit</span>
+<span style="font-size:0.6em; color:gray">Tampilan Rumah Sakit</span>
 @fa[arrow-down]
 
 +++
@@ -123,9 +123,9 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 ---
 
-@title[Lihat Info Rumah Sakit]
+@title[Detail Rumah Sakit]
 
-## Tampilan Lihat Rumah Sakit
+## Detail <span class="gold">Rumah Sakit</span>
 
 <span style="font-size:0.6em; color:gray">Tampilan Lihat Rumah Sakit</span>
 @fa[arrow-down]
@@ -138,7 +138,7 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 @title[Konten Rumah Sakit]
 
-## Tampilan Konten-Konten yang Terdapat di Menu Rumah Sakit
+## Konten-Konten <span class="gold">Rumah Sakit</span>
 
 <span style="font-size:0.6em; color:gray">Tampilan Konten Dokter Jaga</span>
 @fa[arrow-down]
@@ -165,15 +165,279 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 @title[Tampilan Menu Dokter]
 
-## Tampilan Menu <span class="gold">Dokter</span>
+## Menu <span class="gold">Dokter</span>
 
-<span style="font-size:0.6em; color:gray">Tampilan Menu Rumah Sakit</span>
+<span style="font-size:0.6em; color:gray">Tampilan Dokter</span>
 @fa[arrow-down]
 
 +++
 
+![Tampilan menu Dokter](/assets/images/dokter1.png)
 
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
 
++++
+
+![Tampilan menu Dokter](/assets/images/dokter2.png)
+
+---
+
+@title[Profile Dokter]
+
+## Profile <span class="gold">Dokter</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Profile Dokter</span>
+@fa[arrow-down]
+
++++
+
+![Profile Dokter](/assets/images/profile-dokter1.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Profile Dokter](/assets/images/profile-dokter2.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Profile Dokter](/assets/images/profile-dokter3.png)
+
+---
+
+@title[Konten Dokter]
+
+## Konten-Konten <span class="gold">Dokter</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Konten Dokter</span>
+@fa[arrow-down]
+
++++
+
+![Konten Dokter](/assets/images/konten-dokter2.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Konten Dokter](/assets/images/konten-dokter1.png)
+
+---
+
+@title[Kamar Inap]
+
+## Menu <span class="gold">Kamar Inap</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Kamar Inap</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Kamar Inap](/assets/images/kamar-inap1.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Kamar Inap](/assets/images/kamar-inap2.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Kamar Inap](/assets/images/kamar-inap3.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Kamar Inap](/assets/images/kamar-inap4.png)
+
+---
+
+@title[Detail Kamar Inap]
+
+## Detail <span class="gold">Kamar Inap</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Detail Kmar Inap</span>
+@fa[arrow-down]
+
++++
+
+![Detail rumah Sakit](/assets/images/profile-kamar-inap1.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Detail rumah Sakit](/assets/images/profile-kamar-inap2.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Detail rumah Sakit](/assets/images/profile-kamar-inap3.png)
+
+---
+
+@title[Konten kamar Inap]
+
+## Konten-Konten <span class="gold">Kamar Inap</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Konten Kamar Inap</span>
+@fa[arrow-down]
+
++++
+
+![Konten Kamar Inap](/assets/images/konten-kmar-inap1.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Konten Kamar Inap](/assets/images/konten-kmar-inap2.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Konten Kamar Inap](/assets/images/konten-kmar-inap3.png)
+
+---
+
+@title[News]
+
+## Menu <span class="gold">News</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan News</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan News](/assets/images/news1.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan News](/assets/images/news2.png)
+
+---
+
+@title[Detail News]
+
+## Detail <span class="gold">News</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Detail News</span>
+@fa[arrow-down]
+
++++
+
+![Detail News](/assets/images/news-detail1.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Detail News](/assets/images/news-detail2.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Detail News](/assets/images/news-detail3.png)
+
+---
+
+@title[Blog]
+
+## Menu <span class="gold">Blog</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Menu Blog</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Blog](/assets/images/blog1.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Blog](/assets/images/blog1.png)
+
+---
+
+@title[Detail Blog]
+
+## Detail <span class="gold">Blog</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Detail Blog</span>
+@fa[arrow-down]
+
++++
+
+![Detail Blog](/assets/images/blog-detail1.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Detail Blog](/assets/images/blog-detail2.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Detail Blog](/assets/images/blog-detail3.png)
+
+---
+
+@title[Contact]
+
+## <span class="gold">Contact</span>
+
+<span style="font-size:0.6em; color:gray">Tampilan Contact</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Contact](/assets/images/contact1.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Contact](/assets/images/contact2.png)
+
+<span style="font-size:0.6em; color:gray">Lajutannya...</span>
+@fa[arrow-down]
+
++++
+
+![Tampilan Contact](/assets/images/contact3.png)
+
+---
 
 ### SEKIAN
 # Dinas <span class="gold">KominfoST</span>
