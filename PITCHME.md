@@ -6,6 +6,7 @@
 <br>
 <span class="aside">Dengan Bangga Mempersembahkan</span>
 
+
 ---
 
 @title[Introduction]
@@ -42,6 +43,7 @@
 - untuk mempermudah pendataan masyarakat yang sakit pada waktu tertentu. |
 - Untuk mempermudah pendataan jumlah rumah sakit, dokter dan ruang rawat inap yang terdapat di provinsi Banten. |
 
+
 ---
 
 ### Tampilan Aplikasi <span class="gold">YanKes</span>
@@ -62,49 +64,49 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Tampilan Home1](/assets/images/home1.png)
+![Tampilan Home1](/assets/image/home1.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Home2](/assets/images/home2.png)
+![Tampilan Home2](/assets/image/home2.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Home3](/assets/images/home3.png)
+![Tampilan Home3](/assets/image/home3.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Home4](/assets/images/home4.png)
+![Tampilan Home4](/assets/image/home4.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Home5](/assets/images/home5.png)
+![Tampilan Home5](/assets/image/home5.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Home6](/assets/images/home6.png)
+![Tampilan Home6](/assets/image/home6.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Home7](/assets/images/home7.png)
+![Tampilan Home7](/assets/image/home7.png)
 
 <span style="font-size:0.6em; color:gray">selesai</span>
 
@@ -119,7 +121,7 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Tampilan Menu Rumah Sakit](/assets/images/menu-rumah-sakit.png)
+![Tampilan Menu Rumah Sakit](/assets/image/menu-rumah-sakit.png)
 
 ---
 
@@ -132,7 +134,7 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Tampilan Lihat Rumah Sakit](/assets/images/lihat-rumah-sakit.png)
+![Tampilan Lihat Rumah Sakit](/assets/image/lihat-rumah-sakit.png)
 
 ---
 
@@ -145,21 +147,21 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Tampilan Konten Dokter Jaga](/assets/images/konten-rumah-sakit1.png)
+![Tampilan Konten Dokter Jaga](/assets/image/konten-rumah-sakit1.png)
 
 <span style="font-size:0.6em; color:gray">Tampilan Konten Layanan</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Konten Layanan](/assets/images/konten-rumah-sakit2.png)
+![Tampilan Konten Layanan](/assets/image/konten-rumah-sakit2.png)
 
 <span style="font-size:0.6em; color:gray">Tampilan Konten Tempat Tidur rawat Inap</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Konten Tempat Tidur Rawat Inap](/assets/images/konten-rumah-sakit3.png)
+![Tampilan Konten Tempat Tidur Rawat Inap](/assets/image/konten-rumah-sakit3.png)
 
 ---
 
@@ -172,14 +174,14 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Tampilan menu Dokter](/assets/images/dokter1.png)
+![Tampilan menu Dokter](/assets/image/dokter1.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan menu Dokter](/assets/images/dokter2.png)
+![Tampilan menu Dokter](/assets/image/dokter2.png)
 
 ---
 
@@ -192,21 +194,21 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Profile Dokter](/assets/images/profile-dokter1.png)
+![Profile Dokter](/assets/image/profile-dokter1.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Profile Dokter](/assets/images/profile-dokter2.png)
+![Profile Dokter](/assets/image/profile-dokter2.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Profile Dokter](/assets/images/profile-dokter3.png)
+![Profile Dokter](/assets/image/profile-dokter3.png)
 
 ---
 
@@ -219,14 +221,14 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Konten Dokter](/assets/images/konten-dokter2.png)
+![Konten Dokter](/assets/image/konten-dokter2.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Konten Dokter](/assets/images/konten-dokter1.png)
+![Konten Dokter](/assets/image/konten-dokter1.png)
 
 ---
 
@@ -239,28 +241,28 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Tampilan Kamar Inap](/assets/images/kamar-inap1.png)
+![Tampilan Kamar Inap](/assets/image/kamar-inap1.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Kamar Inap](/assets/images/kamar-inap2.png)
+![Tampilan Kamar Inap](/assets/image/kamar-inap2.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Kamar Inap](/assets/images/kamar-inap3.png)
+![Tampilan Kamar Inap](/assets/image/kamar-inap3.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Kamar Inap](/assets/images/kamar-inap4.png)
+![Tampilan Kamar Inap](/assets/image/kamar-inap4.png)
 
 ---
 
@@ -273,21 +275,21 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Detail rumah Sakit](/assets/images/profile-kamar-inap1.png)
+![Detail rumah Sakit](/assets/image/profile-kamar-inap1.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Detail rumah Sakit](/assets/images/profile-kamar-inap2.png)
+![Detail rumah Sakit](/assets/image/profile-kamar-inap2.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Detail rumah Sakit](/assets/images/profile-kamar-inap3.png)
+![Detail rumah Sakit](/assets/image/profile-kamar-inap3.png)
 
 ---
 
@@ -300,21 +302,21 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Konten Kamar Inap](/assets/images/konten-kmar-inap1.png)
+![Konten Kamar Inap](/assets/image/konten-kamar-inap1.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Konten Kamar Inap](/assets/images/konten-kmar-inap2.png)
+![Konten Kamar Inap](/assets/image/konten-kamar-inap2.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Konten Kamar Inap](/assets/images/konten-kmar-inap3.png)
+![Konten Kamar Inap](/assets/image/konten-kamar-inap3.png)
 
 ---
 
@@ -327,14 +329,14 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Tampilan News](/assets/images/news1.png)
+![Tampilan News](/assets/image/news1.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan News](/assets/images/news2.png)
+![Tampilan News](/assets/image/news2.png)
 
 ---
 
@@ -347,21 +349,21 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Detail News](/assets/images/news-detail1.png)
+![Detail News](/assets/image/news-detail1.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Detail News](/assets/images/news-detail2.png)
+![Detail News](/assets/image/news-detail2.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Detail News](/assets/images/news-detail3.png)
+![Detail News](/assets/image/news-detail3.png)
 
 ---
 
@@ -374,14 +376,14 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Tampilan Blog](/assets/images/blog1.png)
+![Tampilan Blog](/assets/image/blog1.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Blog](/assets/images/blog1.png)
+![Tampilan Blog](/assets/image/blog1.png)
 
 ---
 
@@ -394,21 +396,21 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Detail Blog](/assets/images/blog-detail1.png)
+![Detail Blog](/assets/image/blog-detail1.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Detail Blog](/assets/images/blog-detail2.png)
+![Detail Blog](/assets/image/blog-detail2.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Detail Blog](/assets/images/blog-detail3.png)
+![Detail Blog](/assets/image/blog-detail3.png)
 
 ---
 
@@ -421,21 +423,21 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Tampilan Contact](/assets/images/contact1.png)
+![Tampilan Contact](/assets/image/contact1.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Contact](/assets/images/contact2.png)
+![Tampilan Contact](/assets/image/contact2.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Tampilan Contact](/assets/images/contact3.png)
+![Tampilan Contact](/assets/image/contact3.png)
 
 ---
 
